@@ -1,0 +1,13 @@
+C:\Users\SANTANU\source\repos\Factorial_Recursion\Factorial_Recursion\obj\Debug\netcoreapp3.1\Factorial_Recursion.csprojAssemblyReference.cache
+C:\Users\SANTANU\source\repos\Factorial_Recursion\Factorial_Recursion\obj\Debug\netcoreapp3.1\Factorial_Recursion.AssemblyInfoInputs.cache
+C:\Users\SANTANU\source\repos\Factorial_Recursion\Factorial_Recursion\obj\Debug\netcoreapp3.1\Factorial_Recursion.AssemblyInfo.cs
+C:\Users\SANTANU\source\repos\Factorial_Recursion\Factorial_Recursion\obj\Debug\netcoreapp3.1\Factorial_Recursion.csproj.CoreCompileInputs.cache
+C:\Users\SANTANU\source\repos\Factorial_Recursion\Factorial_Recursion\bin\Debug\netcoreapp3.1\Factorial_Recursion.exe
+C:\Users\SANTANU\source\repos\Factorial_Recursion\Factorial_Recursion\bin\Debug\netcoreapp3.1\Factorial_Recursion.deps.json
+C:\Users\SANTANU\source\repos\Factorial_Recursion\Factorial_Recursion\bin\Debug\netcoreapp3.1\Factorial_Recursion.runtimeconfig.json
+C:\Users\SANTANU\source\repos\Factorial_Recursion\Factorial_Recursion\bin\Debug\netcoreapp3.1\Factorial_Recursion.runtimeconfig.dev.json
+C:\Users\SANTANU\source\repos\Factorial_Recursion\Factorial_Recursion\bin\Debug\netcoreapp3.1\Factorial_Recursion.dll
+C:\Users\SANTANU\source\repos\Factorial_Recursion\Factorial_Recursion\bin\Debug\netcoreapp3.1\Factorial_Recursion.pdb
+C:\Users\SANTANU\source\repos\Factorial_Recursion\Factorial_Recursion\obj\Debug\netcoreapp3.1\Factorial_Recursion.dll
+C:\Users\SANTANU\source\repos\Factorial_Recursion\Factorial_Recursion\obj\Debug\netcoreapp3.1\Factorial_Recursion.pdb
+C:\Users\SANTANU\source\repos\Factorial_Recursion\Factorial_Recursion\obj\Debug\netcoreapp3.1\Factorial_Recursion.genruntimeconfig.cache
